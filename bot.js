@@ -19,7 +19,7 @@ SatanMC
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
-https://discord.gg/C2AEbAs
+https://discord.gg/ee5MNdR
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -42,9 +42,12 @@ SatanMC
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
-https://discord.gg/C2AEbAs
+https://discord.gg/ee5MNdR
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
+
+
+
 client.login(process.env.BOT_TOKEN);
